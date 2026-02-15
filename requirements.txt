@@ -1,0 +1,12 @@
+# Requirements for KorBot X
+MetaTrader5
+redis==5.0.1
+pandas==2.2.0
+requests==2.31.0
+ta==0.10.2
+xgboost==2.0.3
+stable-baselines3==2.3.0
+deap==1.4.1
+gymnasium==0.29.1
+PyQt6==6.7.0
+telegram-bot-api==0.3.2

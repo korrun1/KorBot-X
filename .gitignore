@@ -1,0 +1,24 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Rust
+target/
+Cargo.lock
+
+# Databases and temp files
+databases/*
+raw_data.csv
+processed_data.csv
+*.sqlite
+*.db
+
+# Other
+.idea/
+*.log
+*.tmp
